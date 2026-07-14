@@ -1,2 +1,7 @@
-# hk-SKY2100-Cloud_Security
-Course Code SKY2100 // Cloud Security
+# Kristiania University of Applied Sciences - SKY2100 - Cloud Security
+This is an individually delivered assignment. This exam was written in LANGUAGE.
+[Read it here // NAME ](./LINK)
+
+**Grade:**  C
+
+**Date:** 2025
