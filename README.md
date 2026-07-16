@@ -1,6 +1,6 @@
 # Kristiania University of Applied Sciences - SKY2100 - Cloud Security
 This is an individually delivered assignment. This exam was written in LANGUAGE.
-[Read it here // NAME ](./LINK)
+[Read it here // Exam SKY2100 ](./Exam-SKY2100.pdf)
 
 **Grade:**  C
 
